@@ -1,5 +1,7 @@
 == README
 
+Toying with Ruby on Rails [Pankaj Nayal](https://github.com/NPankaj)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
